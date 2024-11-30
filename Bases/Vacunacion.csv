@@ -1,0 +1,160 @@
+﻿location,date,vaccine,total_vaccinations
+Argentina,31/12/21,CanSino,204112
+Argentina,31/12/21,Moderna,3539575
+Argentina,31/12/21,Oxford/AstraZeneca,24446207
+Argentina,31/12/21,Pfizer/BioNTech,6122911
+Argentina,31/12/21,Sinopharm/Beijing,25539384
+Argentina,31/12/21,Sputnik V,18238358
+Austria,31/12/21,Johnson&Johnson,360436
+Austria,31/12/21,Moderna,1483121
+Austria,31/12/21,Novavax,0
+Austria,31/12/21,Oxford/AstraZeneca,1588102
+Austria,31/12/21,Pfizer/BioNTech,13129584
+Belgium,31/12/21,Johnson&Johnson,423883
+Belgium,31/12/21,Moderna,2346032
+Belgium,31/12/21,Novavax,0
+Belgium,31/12/21,Oxford/AstraZeneca,2846647
+Belgium,31/12/21,Pfizer/BioNTech,16078523
+Bulgaria,31/12/21,Johnson&Johnson,465771
+Bulgaria,31/12/21,Moderna,414300
+Bulgaria,31/12/21,Oxford/AstraZeneca,478474
+Bulgaria,31/12/21,Pfizer/BioNTech,2344709
+Chile,31/12/21,CanSino,573839
+Chile,31/12/21,Oxford/AstraZeneca,546231
+Chile,31/12/21,Pfizer/BioNTech,7657873
+Chile,31/12/21,Sinovac,24495683
+Croatia,31/12/21,Johnson&Johnson,190025
+Croatia,31/12/21,Moderna,456802
+Croatia,31/12/21,Oxford/AstraZeneca,567607
+Croatia,31/12/21,Pfizer/BioNTech,3528198
+Cyprus,31/12/21,Johnson&Johnson,26428
+Cyprus,31/12/21,Moderna,135203
+Cyprus,31/12/21,Oxford/AstraZeneca,254490
+Cyprus,31/12/21,Pfizer/BioNTech,1072696
+Czechia,31/12/21,Johnson&Johnson,406603
+Czechia,31/12/21,Moderna,1336140
+Czechia,31/12/21,Pfizer/BioNTech,12864650
+Denmark,31/12/21,Johnson&Johnson,46865
+Denmark,31/12/21,Moderna,1496657
+Denmark,31/12/21,Oxford/AstraZeneca,155624
+Denmark,31/12/21,Pfizer/BioNTech,9605309
+Ecuador,31/12/21,CanSino,476711
+Ecuador,31/12/21,Oxford/AstraZeneca,3720268
+Ecuador,31/12/21,Pfizer/BioNTech,7965940
+Ecuador,31/12/21,Sinovac,15403412
+Estonia,31/12/21,Johnson&Johnson,75382
+Estonia,31/12/21,Moderna,202495
+Estonia,31/12/21,Oxford/AstraZeneca,237693
+Estonia,31/12/21,Pfizer/BioNTech,1364995
+Finland,31/12/21,Johnson&Johnson,0
+Finland,31/12/21,Moderna,1296473
+Finland,31/12/21,Oxford/AstraZeneca,553780
+Finland,31/12/21,Pfizer/BioNTech,7938850
+France,31/12/21,Johnson&Johnson,1083592
+France,31/12/21,Moderna,17307930
+France,31/12/21,Oxford/AstraZeneca,7847602
+France,31/12/21,Pfizer/BioNTech,97743767
+Germany,31/12/21,Johnson&Johnson,3585910
+Germany,31/12/21,Moderna,22632260
+Germany,31/12/21,Novavax,0
+Germany,31/12/21,Oxford/AstraZeneca,12745990
+Germany,31/12/21,Pfizer/BioNTech,111319595
+Hong Kong,31/12/21,Pfizer/BioNTech,6200765
+Hong Kong,31/12/21,Sinovac,3724860
+Hungary,31/12/21,Johnson&Johnson,306384
+Hungary,31/12/21,Moderna,980133
+Hungary,31/12/21,Oxford/AstraZeneca,1251605
+Hungary,31/12/21,Pfizer/BioNTech,8494539
+Hungary,31/12/21,Sinopharm/Beijing,2239144
+Hungary,31/12/21,Sputnik V,1807392
+Ireland,31/12/21,Johnson&Johnson,237839
+Ireland,31/12/21,Moderna,1051674
+Ireland,31/12/21,Pfizer/BioNTech,7300116
+Italy,31/12/21,Johnson&Johnson,1503428
+Italy,31/12/21,Moderna,21647854
+Italy,31/12/21,Pfizer/BioNTech,76017818
+Latvia,31/12/21,Johnson&Johnson,284247
+Latvia,31/12/21,Moderna,569063
+Latvia,31/12/21,Pfizer/BioNTech,1440489
+Liechtenstein,31/12/21,Johnson&Johnson,226
+Liechtenstein,31/12/21,Moderna,43021
+Liechtenstein,31/12/21,Pfizer/BioNTech,20384
+Lithuania,31/12/21,Johnson&Johnson,281798
+Lithuania,31/12/21,Moderna,304289
+Lithuania,31/12/21,Oxford/AstraZeneca,536426
+Lithuania,31/12/21,Pfizer/BioNTech,2997629
+Luxembourg,31/12/21,Johnson&Johnson,40974
+Luxembourg,31/12/21,Moderna,191948
+Luxembourg,31/12/21,Oxford/AstraZeneca,105267
+Luxembourg,31/12/21,Pfizer/BioNTech,647974
+Malta,31/12/21,Johnson&Johnson,31899
+Malta,31/12/21,Moderna,157561
+Malta,31/12/21,Oxford/AstraZeneca,227703
+Malta,31/12/21,Pfizer/BioNTech,637501
+Netherlands,31/12/21,Johnson&Johnson,867409
+Netherlands,31/12/21,Moderna,4978388
+Netherlands,31/12/21,Novavax,0
+Netherlands,31/12/21,Oxford/AstraZeneca,2800819
+Netherlands,31/12/21,Pfizer/BioNTech,20962978
+Norway,31/12/21,Johnson&Johnson,6982
+Norway,31/12/21,Moderna,1832834
+Norway,31/12/21,Oxford/AstraZeneca,147281
+Norway,31/12/21,Pfizer/BioNTech,7789277
+Peru,31/12/21,Oxford/AstraZeneca,3949419
+Peru,31/12/21,Pfizer/BioNTech,27698318
+Peru,31/12/21,Sinopharm/Beijing,18656242
+Poland,31/12/21,Johnson&Johnson,2527950
+Poland,31/12/21,Moderna,3371860
+Poland,31/12/21,Novavax,0
+Poland,31/12/21,Oxford/AstraZeneca,5288515
+Poland,31/12/21,Pfizer/BioNTech,33551704
+Portugal,31/12/21,Johnson&Johnson,1132846
+Portugal,31/12/21,Moderna,2519132
+Portugal,31/12/21,Oxford/AstraZeneca,2245483
+Portugal,31/12/21,Pfizer/BioNTech,12744755
+Portugal,31/12/21,Sinopharm/Beijing,963
+Portugal,31/12/21,Sinovac,1788
+Romania,31/12/21,Johnson&Johnson,1936782
+Romania,31/12/21,Moderna,954459
+Romania,31/12/21,Oxford/AstraZeneca,849503
+Romania,31/12/21,Pfizer/BioNTech,12084165
+Slovakia,31/12/21,Johnson&Johnson,166933
+Slovakia,31/12/21,Moderna,609618
+Slovakia,31/12/21,Pfizer/BioNTech,4497296
+Slovenia,31/12/21,Johnson&Johnson,136149
+Slovenia,31/12/21,Moderna,224772
+Slovenia,31/12/21,Oxford/AstraZeneca,324860
+Slovenia,31/12/21,Pfizer/BioNTech,2049054
+South Korea,31/12/21,Johnson&Johnson,1536904
+South Korea,31/12/21,Moderna,20271863
+South Korea,31/12/21,Novavax,1
+South Korea,31/12/21,Oxford/AstraZeneca,20314882
+South Korea,31/12/21,Pfizer/BioNTech,61598385
+Spain,31/12/21,Johnson&Johnson,1979966
+Spain,31/12/21,Moderna,16169542
+Spain,31/12/21,Oxford/AstraZeneca,9792279
+Spain,31/12/21,Pfizer/BioNTech,59664276
+Sweden,31/12/21,Moderna,2383903
+Sweden,31/12/21,Novavax,0
+Sweden,31/12/21,Oxford/AstraZeneca,1328640
+Sweden,31/12/21,Pfizer/BioNTech,13008517
+Switzerland,31/12/21,Johnson&Johnson,53777
+Switzerland,31/12/21,Moderna,8748298
+Switzerland,31/12/21,Pfizer/BioNTech,5034843
+Ukraine,31/12/21,Johnson&Johnson,20680
+Ukraine,31/12/21,Moderna,2774659
+Ukraine,31/12/21,Oxford/AstraZeneca,3980747
+Ukraine,31/12/21,Pfizer/BioNTech,12423868
+Ukraine,31/12/21,Sinovac,9257611
+Uruguay,31/12/21,Oxford/AstraZeneca,90727
+Uruguay,31/12/21,Pfizer/BioNTech,2097412
+Uruguay,31/12/21,Sinovac,3247831
+European Union,31/12/21,Covaxin,11
+European Union,31/12/21,Johnson&Johnson,18099499
+European Union,31/12/21,Moderna,105221609
+European Union,31/12/21,Novavax,0
+European Union,31/12/21,Oxford/AstraZeneca,67377949
+European Union,31/12/21,Pfizer/BioNTech,533089687
+European Union,31/12/21,Sinopharm/Beijing,2240134
+European Union,31/12/21,Sinovac,1797
+European Union,31/12/21,Sputnik V,1845103

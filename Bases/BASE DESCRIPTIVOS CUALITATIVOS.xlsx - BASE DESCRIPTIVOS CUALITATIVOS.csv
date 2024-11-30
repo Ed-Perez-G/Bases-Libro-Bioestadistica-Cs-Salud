@@ -1,0 +1,183 @@
+ID,EDAD,GENERO,CIVIL,ESCOLARIDAD,GDO_ESCOLARIDAD,OCUPACION,TRABAJADOR,ALCOHOL,TABAQUISMO,TOXICOM,SEDENTARISMO,ANTICONCEP,HAS,DM2,DLP,GDO_IMC
+Paciente1,61,0,Soltero,Primaria completa,Preparatoria o mas,Jubilado,no trabajador,1,no,No,No,,,,,
+Paciente2,46,0,Viudo,Secundaria incompleta,Preparatoria o mas,Jubilado,no trabajador,1,no,No,Si,,,,,
+Paciente3,66,0,Divorciado,Secundaria completa,Preparatoria o mas,Jubilado,no trabajador,0,no,No,Si,,,,,
+Paciente4,42,1,Union libre,Preparatoria incompleta,Preparatoria o mas,Pensionado,no trabajador,0,no,No,Si,,,,,
+Paciente5,89,1,Separado,Primaria completa,Preparatoria o mas,Jubilado,no trabajador,0,no,No,Si,,,,,
+Paciente6,63,0,Separado,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,Si,0,0,0,sobrepeso
+Paciente7,49,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,Si,0,0,0,sobrepeso
+Paciente8,64,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,sobrepeso
+Paciente9,64,0,Casado,Comercio completa,Preparatoria o mas,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,normal
+Paciente10,72,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,1,no,No,No,No,0,0,0,normal
+Paciente11,44,0,Casado,Comercio completa,Preparatoria o mas,Empleado,TRABAJADOR,1,no,No,No,No,0,0,0,sobrepeso
+Paciente12,48,0,Casado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,No,No,1,1,0,obesidad I
+Paciente13,65,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,normal
+Paciente14,49,0,Union libre,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,
+Paciente15,57,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,1,no,No,Si,No,0,0,1,obesidad I
+Paciente16,66,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,1,1,normal
+Paciente17,63,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,Si,1,1,1,obesidad II
+Paciente18,64,0,Viudo,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,,,,,Obesidad III
+Paciente19,50,0,Casado,Preparatoria completa,Preparatoria o mas,Empleado,TRABAJADOR,0,POSITIVO,No,Si,Si,1,0,1,normal
+Paciente20,58,0,Viudo,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,1,obesidad I
+Paciente21,53,0,Casado,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,Si,1,1,0,obesidad I
+Paciente22,50,0,Divorciado,Preparatoria completa,Preparatoria o mas,Empleado,TRABAJADOR,0,POSITIVO,No,No,No,0,0,1,obesidad I
+Paciente23,54,0,Soltero,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,1,1,1,
+Paciente24,64,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,1,POSITIVO,No,Si,No,0,1,1,normal
+Paciente25,73,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,sobrepeso
+Paciente26,61,0,Viudo,Preparatoria completa,Preparatoria o mas,Empleado,TRABAJADOR,0,POSITIVO,No,No,Si,1,0,1,
+Paciente27,53,0,Casado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,No,No,0,0,1,sobrepeso
+Paciente28,73,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,Si,0,0,0,normal
+Paciente29,68,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,1,no,No,No,No,0,1,1,obesidad I
+Paciente30,55,0,Casado,Comercio completa,Preparatoria o mas,Empleado,TRABAJADOR,0,no,No,No,No,0,0,0,normal
+Paciente31,71,0,Divorciado,Secundaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,Si,0,,1,sobrepeso
+Paciente32,50,0,Divorciado,Comercio completa,Preparatoria o mas,Empleado,TRABAJADOR,1,POSITIVO,No,Si,Si,0,1,0,sobrepeso
+Paciente33,57,0,Casado,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,1,,1,obesidad I
+Paciente34,55,0,Casado,Estudios de Posgrado,Preparatoria o mas,Jubilado,no trabajador,0,no,No,No,No,0,0,0,sobrepeso
+Paciente35,63,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,obesidad I
+Paciente36,60,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente37,50,0,Divorciado,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,1,POSITIVO,No,Si,No,0,0,0,sobrepeso
+Paciente38,64,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,obesidad I
+Paciente39,63,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,1,no,No,No,No,1,0,0,obesidad II
+Paciente40,65,0,Soltero,Carrera completa,Preparatoria o mas,Pensionado,no trabajador,0,no,No,Si,No,1,0,1,sobrepeso
+Paciente41,58,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,0,0,normal
+Paciente42,46,0,Union libre,Secundaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,obesidad I
+Paciente43,52,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,0,0,0,normal
+Paciente44,47,0,Soltero,Carrera completa,Preparatoria o mas,Empleado,TRABAJADOR,0,POSITIVO,No,Si,No,0,0,0,sobrepeso
+Paciente45,54,1,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,,1,1,1,obesidad II
+Paciente46,59,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,1,0,0,sobrepeso
+Paciente47,61,0,Casado,Primaria completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente48,49,0,Soltero,Comercio completa,Preparatoria o mas,Empleado,TRABAJADOR,0,no,No,No,No,0,0,0,sobrepeso
+Paciente49,55,0,Soltero,Carrera completa,Preparatoria o mas,Empleado,TRABAJADOR,0,no,No,No,No,0,0,0,normal
+Paciente50,50,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,sobrepeso
+Paciente51,52,0,Casado,Carrera completa,Preparatoria o mas,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,normal
+Paciente52,62,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,0,obesidad I
+Paciente53,57,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,Si,0,0,1,
+Paciente54,62,0,Soltero,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,1,POSITIVO,No,Si,No,0,0,1,
+Paciente55,65,0,Casado,Carrera incompleta,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,Si,No,1,1,0,sobrepeso
+Paciente56,68,1,Casado,Nula,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,,0,1,0,obesidad I
+Paciente57,53,0,Viudo,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,1,no,No,Si,No,0,0,1,sobrepeso
+Paciente58,64,0,Casado,Carrera completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente59,71,0,Casado,Comercio completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,sobrepeso
+Paciente60,52,0,Soltero,Carrera completa,Preparatoria o mas,Empleado,TRABAJADOR,0,no,No,No,No,0,1,0,normal
+Paciente61,68,0,Casado,Nula,Secundaria o menos,Ama de casa,no trabajador,1,POSITIVO,No,Si,Si,0,0,0,obesidad II
+Paciente62,69,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,Si,1,0,0,normal
+Paciente63,81,0,Viudo,Nula,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,1,normal
+Paciente64,61,0,Soltero,Preparatoria incompleta,Preparatoria o mas,Empleado,TRABAJADOR,1,no,No,Si,Si,0,0,0,normal
+Paciente65,53,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,Si,0,0,0,sobrepeso
+Paciente66,85,0,Soltero,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,0,sobrepeso
+Paciente67,64,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,1,0,sobrepeso
+Paciente68,59,0,Soltero,Preparatoria completa,Preparatoria o mas,Empleado,TRABAJADOR,0,no,No,Si,No,,,,normal
+Paciente69,52,0,Divorciado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente70,46,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,Si,1,1,1,Obesidad III
+Paciente71,61,0,Viudo,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,POSITIVO,No,Si,Si,1,0,0,obesidad I
+Paciente72,55,0,Casado,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,No,No,0,0,0,normal
+Paciente73,59,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,Si,1,0,1,sobrepeso
+Paciente74,71,0,Casado,Nula,Secundaria o menos,Ama de casa,no trabajador,1,POSITIVO,No,Si,Si,0,0,0,
+Paciente75,78,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,
+Paciente76,69,0,Viudo,Secundaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,0,0,obesidad I
+Paciente77,74,0,Casado,Nula,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,1,sobrepeso
+Paciente78,56,0,Casado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,1,0,0,obesidad I
+Paciente79,59,0,Separado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente80,54,0,Casado,Nula,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,1,1,sobrepeso
+Paciente81,61,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,normal
+Paciente82,63,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,Si,1,0,1,obesidad I
+Paciente83,64,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,1,normal
+Paciente84,56,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,obesidad I
+Paciente85,61,0,Divorciado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,1,no,No,No,Si,0,0,0,sobrepeso
+Paciente86,70,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,0,0,sobrepeso
+Paciente87,66,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,0,1,obesidad I
+Paciente88,75,0,Soltero,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,Si,1,0,0,obesidad I
+Paciente89,57,1,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,,1,1,0,normal
+Paciente90,77,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,sobrepeso
+Paciente91,73,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,No,No,,,,sobrepeso
+Paciente92,58,0,Divorciado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,obesidad I
+Paciente93,64,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,0,obesidad I
+Paciente94,65,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,normal
+Paciente95,56,0,Casado,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,0,1,0,obesidad I
+Paciente96,59,0,Divorciado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,normal
+Paciente97,67,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,1,0,Obesidad III
+Paciente98,62,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente99,72,0,Casado,,,Ama de casa,no trabajador,0,no,No,Si,No,0,0,1,normal
+Paciente100,51,0,Casado,Nula,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,1,normal
+Paciente101,61,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,1,no,No,Si,No,0,0,0,
+Paciente102,55,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,1,1,0,sobrepeso
+Paciente103,68,0,Casado,Nula,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,0,obesidad I
+Paciente104,66,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,0,1,sobrepeso
+Paciente105,70,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,normal
+Paciente106,53,0,Casado,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,POSITIVO,No,Si,No,0,0,0,normal
+Paciente107,58,0,Viudo,Primaria incompleta,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente108,69,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,1,0,obesidad I
+Paciente109,47,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,1,1,1,sobrepeso
+Paciente110,64,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,1,normal
+Paciente111,66,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente112,72,0,Viudo,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,1,no,No,No,Si,0,1,0,sobrepeso
+Paciente113,63,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,normal
+Paciente114,54,0,Soltero,Carrera completa,Preparatoria o mas,Otro,no trabajador,1,no,No,Si,No,1,0,0,obesidad I
+Paciente115,66,0,Viudo,Nula,Secundaria o menos,Ama de casa,no trabajador,1,POSITIVO,No,Si,No,1,1,0,sobrepeso
+Paciente116,69,0,Soltero,Carrera completa,Preparatoria o mas,Otro,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente117,49,0,Soltero,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,1,0,obesidad I
+Paciente118,53,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente119,60,0,Casado,Primaria completa,Secundaria o menos,Otro,no trabajador,0,no,No,Si,No,1,1,0,obesidad I
+Paciente120,63,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,1,0,normal
+Paciente121,70,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,normal
+Paciente122,56,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,1,normal
+Paciente123,60,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,normal
+Paciente124,54,0,Casado,Preparatoria completa,Preparatoria o mas,Empleado,TRABAJADOR,1,no,No,No,No,0,0,0,normal
+Paciente125,47,0,Casado,Secundaria completa,Secundaria o menos,Empleado,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente126,48,0,Divorciado,Comercio completa,Preparatoria o mas,Empleado,TRABAJADOR,1,no,No,No,No,0,0,0,sobrepeso
+Paciente127,71,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,normal
+Paciente128,51,0,Soltero,Carrera completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,No,No,0,0,0,sobrepeso
+Paciente129,61,1,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,,0,1,0,sobrepeso
+Paciente130,46,0,Divorciado,Carrera completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,Si,0,0,0,obesidad I
+Paciente131,66,0,Union libre,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,Si,0,0,1,sobrepeso
+Paciente132,42,0,Casado,Carrera completa,Preparatoria o mas,Empleado,TRABAJADOR,1,no,No,Si,Si,0,0,1,normal
+Paciente133,60,0,Union libre,Primaria completa,Secundaria o menos,Jubilado,no trabajador,0,no,No,Si,Si,0,0,0,sobrepeso
+Paciente134,53,0,Casado,Preparatoria completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,No,Si,1,0,0,sobrepeso
+Paciente135,66,0,Casado,Preparatoria completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,sobrepeso
+Paciente136,56,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,Si,1,0,0,normal
+Paciente137,63,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,Si,1,1,1,sobrepeso
+Paciente138,50,1,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,No,,0,1,1,normal
+Paciente139,65,0,Soltero,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente140,65,1,Viudo,Comercio completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,No,,1,0,1,
+Paciente141,70,1,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,,1,0,0,
+Paciente142,68,1,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,,1,0,1,
+Paciente143,80,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,1,0,0,
+Paciente144,58,0,Casado,Carrera completa,Preparatoria o mas,Pensionado,no trabajador,0,no,No,Si,Si,1,0,0,obesidad I
+Paciente145,55,0,Casado,Comercio completa,Preparatoria o mas,Pensionado,no trabajador,0,no,No,No,No,1,0,0,obesidad II
+Paciente146,64,0,Soltero,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,obesidad I
+Paciente147,82,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,1,obesidad I
+Paciente148,56,1,Casado,Comercio completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,Si,,1,0,1,obesidad I
+Paciente149,63,0,Divorciado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,1,POSITIVO,No,No,Si,1,0,1,sobrepeso
+Paciente150,72,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,1,obesidad II
+Paciente151,69,1,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,,1,1,1,sobrepeso
+Paciente152,59,0,Soltero,Carrera completa,Preparatoria o mas,Jubilado,no trabajador,0,,No,Si,No,0,0,1,sobrepeso
+Paciente153,64,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,,No,No,No,0,0,0,sobrepeso
+Paciente154,45,1,Casado,Comercio completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,No,,0,0,0,normal
+Paciente155,59,0,Casado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,1,no,No,No,Si,0,0,0,sobrepeso
+Paciente156,65,1,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,,0,0,1,normal
+Paciente157,70,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,sobrepeso
+Paciente158,61,1,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,,0,0,0,obesidad I
+Paciente159,63,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,0,1,normal
+Paciente160,65,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,1,no,No,No,No,0,0,0,normal
+Paciente161,75,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,1,no,No,No,No,1,0,1,sobrepeso
+Paciente162,54,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,0,0,0,sobrepeso
+Paciente163,50,0,Casado,Preparatoria completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,No,No,1,0,0,normal
+Paciente164,66,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,1,no,No,Si,No,0,0,0,normal
+Paciente165,55,0,Casado,Primaria incompleta,Secundaria o menos,Otro,no trabajador,0,no,No,Si,No,1,0,0,obesidad I
+Paciente166,68,0,Viudo,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,0,0,0,sobrepeso
+Paciente167,53,0,Casado,Carrera completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,Si,No,0,0,0,normal
+Paciente168,57,0,Viudo,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,0,1,obesidad I
+Paciente169,64,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,0,1,0,sobrepeso
+Paciente170,65,0,Casado,Carrera completa,Preparatoria o mas,Jubilado,no trabajador,0,no,No,No,No,1,0,0,obesidad I
+Paciente171,73,0,Divorciado,Carrera incompleta,Preparatoria o mas,Ama de casa,no trabajador,0,POSITIVO,No,Si,No,1,0,0,normal
+Paciente172,48,0,Divorciado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,POSITIVO,No,No,No,0,0,0,normal
+Paciente173,54,0,Casado,Preparatoria completa,Preparatoria o mas,Jubilado,no trabajador,0,no,No,Si,No,0,0,0,obesidad I
+Paciente174,47,0,Casado,Carrera completa,Preparatoria o mas,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,normal
+Paciente175,61,0,Soltero,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,0,0,obesidad I
+Paciente176,58,0,Casado,Primaria incompleta,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,1,0,sobrepeso
+Paciente177,69,0,Casado,Secundaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,Si,No,1,0,0,obesidad I
+Paciente178,57,0,Casado,Primaria completa,Secundaria o menos,Ama de casa,no trabajador,0,no,No,No,No,0,1,0,sobrepeso
+Paciente179,57,0,Viudo,Primaria incompleta,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente180,52,0,Soltero,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,No,No,0,0,0,normal
+Paciente181,61,0,Viudo,Primaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,no,No,Si,No,0,0,0,sobrepeso
+Paciente182,46,0,Casado,Secundaria completa,Secundaria o menos,Empleado,TRABAJADOR,0,POSITIVO,No,Si,No,0,0,0,obesidad I
